@@ -1,6 +1,9 @@
-# 心理学小站
+# Psych brainstorming
 
-这是一个简单的静态网站模板，用于分享心理学小知识。你可以修改 `index.html` 的文章列表，添加更多文章文件到 `posts/` 目录，并调整 `style.css` 来改变站点样式。
+A corner where psychology meets everyday messiness.
+Sometimes it’s a quote from a book, sometimes a midnight thought.
+I write about the small things that make us feel, think, and overthink —
+like coffee that’s gone a bit cold, but somehow still keeps you awake.
 
 ## 文件结构
 
